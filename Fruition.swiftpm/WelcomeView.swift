@@ -35,7 +35,7 @@ struct WelcomeView: View {
                                 .fontWeight(.medium)
                                 .foregroundColor(.white)
                             
-                            Text("Realize Your\nPotential")
+                            Text("Be You.\nBe True")
                                 .font(.system(size: 36, weight: .bold))
                                 .foregroundColor(.white)
                             
